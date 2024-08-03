@@ -1,3 +1,29 @@
+# Project Overview
+TodoChecklist is a responsive static todo application developed using Angular.js. The application allows users to manage a list of todos with functionality to fetch, create, update, and delete todo items. Data is fetched from an API and stored in localStorage for persistence.
+
+# Installation
+Clone the repository:(Copy code)
+git clone https://github.com/yourusername/Gida-FE-Assignment-TODO_1.git
+
+Navigate to the project directory:(Copy code)
+cd Gida-FE-Assignment-TODO_1
+
+Install the project dependencies:(Copy code)
+npm install
+
+# Features
+Responsive Design: The application is designed to be fully responsive and works well on both desktop and mobile devices.
+Initial Data Fetch: Uses Fetch API to get the first 20 to-do items from https://jsonplaceholder.typicode.com/todos and stores the data in localStorage.
+Create Todo: Allows users to create new to-do items. The new items are added to the localStorage array.
+Update Todo: Users can mark to-do items as completed. Completed items are removed from the localStorage array.
+Delete Todo: Provides functionality to delete to-do items, updating the local storage array and the displayed list accordingly.
+
+#Figma Design
+The application's design is based on the provided Figma design. You can view the design here.
+
+$ Contributing
+If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+
 # TodoChecklist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.3.
