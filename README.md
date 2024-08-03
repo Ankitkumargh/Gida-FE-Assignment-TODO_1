@@ -1,3 +1,5 @@
+# Gida Frontend Assignment: TODO_1- todolist application
+ <img src="https://github.com/Ankitkumargh/Gida-FE-Assignment-TODO_1/blob/main/todo1.jpg" alt="">
 # Project Overview
 TodoChecklist is a responsive static todo application developed using Angular.js. The application allows users to manage a list of todos with functionality to fetch, create, update, and delete todo items. Data is fetched from an API and stored in localStorage for persistence.
 
@@ -24,7 +26,7 @@ The application's design is based on the provided Figma design. You can view the
 $ Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-# TodoChecklist
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.3.
 
